@@ -1,6 +1,4 @@
 # Dynamic FPNs: FPN, PAN, BiFPN
-
-The parameters of fpn must be given independently from the backbone.  
   
 Dynamic FPNs are free from
 - the number and channels of pyramid-levels
