@@ -22,4 +22,4 @@ bifpn = BiFPN(num_levels=5,
 ```
 
 ## License
-BSD 3-Clause License Copyright (c) 2022, Kwon Taewan
+BSD 3-Clause License Copyright (c) 2022
